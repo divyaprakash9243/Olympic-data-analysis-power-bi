@@ -30,6 +30,9 @@ Explore visuals and interact with filters to gain insights.
 Use the Excel dataset for reference or further analysis.
 # 📷 Dashboard Previews
 ![Capture  OLYMPICS GAME ANALYTICS](https://github.com/user-attachments/assets/2c7d5ef2-c995-42d1-ae42-2d029c17569c)
+![OLYMPIC GAME ANALY](https://github.com/user-attachments/assets/4de8df45-39f2-47c0-882c-ed1dd90aed2c)
+![OLYMPIC GAME ANALYTYICCS](https://github.com/user-attachments/assets/f3ef98c0-7b2c-4315-a286-48893e643df6)
+
 # 📬 Feedback
 Feel free to open an issue or suggest improvements. Contributions are welcome!
 
